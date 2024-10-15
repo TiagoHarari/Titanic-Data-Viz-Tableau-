@@ -19,8 +19,8 @@ This project explores the Titanic dataset through data visualization using **Tab
 
 ## How to View the Visualizations
 
-1. **PDF Version**: Open the `titanic_visualization.pdf` file to view the static visualizations without the need for Tableau.
-2. **PowerPoint Version**: Open the `titanic_visualization.pptx` file to see the visualizations in a presentation format.
+1. **PDF Version**: Open the `Titanic_DataViz.pdf` file to view the static visualizations without the need for Tableau.
+2. **PowerPoint Version**: Open the `Titanic_DataViz.pptx` file to see the visualizations in a presentation format.
 3. **Tableau File**: If you wish to interact with the data and the visualizations, download Tableau (free version available) and open the `titanic_visualization.twb` file.
 
 tiago.harari@gmail.com
